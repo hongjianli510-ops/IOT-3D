@@ -6,6 +6,8 @@ The client was a mid-sized company that manufactures small home appliances. The 
 
 Looking back now, it’s still pretty interesting to see what I built. If you’ve worked on similar projects, feel free to jump in—I'd love to hear about your first project, too.
 
+联系：13537399880
+
 ![alt text](image.png)
 
 ![alt text](image-1.png)
